@@ -1,0 +1,8 @@
+- Test #1: Tested what would occur if I divided two numbers that did not divide evenly(example: 3 and 2)
+1. Note: It gave out the remainder correctly, but did not give any remaining decimal numbers as it was set to an "int" rather than a "float"
+- Test #2: Tested what would occur if I selected a different number that was not on the menu corresponding to the arithmic operations(example: 0 and 5)
+1. Note: The program did not proceed further
+2. Note: Implemented cases to where it would give an error if the valid number was no selected
+- Test #3 Tested what would occur if I selected a different answer when asking about if "I would like to do another operation"
+1. Note: The program did not proceed further
+2. Note: Implemented conditions that if the answer did not equate to "yes"/"Yes" or "no"/"No", then the program would give an error
